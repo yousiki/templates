@@ -5,7 +5,7 @@
     templates = {
       zed-riper = {
         path = ./zed-riper;
-        description = "ZedRIPER";
+        description = "ZedRIPER Framework";
       };
     };
   };
